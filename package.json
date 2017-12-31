@@ -1,0 +1,10 @@
+{
+  "name": "crypget",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "1.7.3",
+    "cryptocompare": "0.3.0"
+  }
+}
