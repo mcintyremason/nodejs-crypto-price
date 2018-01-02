@@ -2,6 +2,9 @@
 
 Rename the `data.json.example` file to `data.json` and edit to match your current holdings.
 
+### To run:
+`node crypget.js`
+
 ### Example data.json
 
 `{
