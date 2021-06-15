@@ -7,7 +7,8 @@ Rename the `data.json.example` file to `data.json` and edit to match your curren
 
 ### Example data.json
 
-`{
+```json
+{
   "currencies": {
     "ETH":
       {
@@ -46,4 +47,5 @@ Rename the `data.json.example` file to `data.json` and edit to match your curren
       }
   },
   "total": null
-}`
+}
+```
